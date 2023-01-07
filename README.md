@@ -1,8 +1,8 @@
-<h1 align="center">Hi there I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Yowww, Wachu doin' here :> <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://i.pinimg.com/originals/a3/5f/7c/a35f7cceadbeddbfad284e7ce52adca1.gif)" width="35px" height="35px"></h1>
 <body>
 <br>
 <div align="center">
-<img src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif">
+<img src="[https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif](https://i.pinimg.com/736x/f9/a3/9f/f9a39fab15623a572b87aa54bfaa68cf.jpg)">
 </div>
 <br>
 
